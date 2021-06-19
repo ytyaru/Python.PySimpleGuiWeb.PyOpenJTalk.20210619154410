@@ -1,0 +1,9 @@
+Cython==0.29.23
+numpy==1.20.3
+pkg-resources==0.0.0
+pyopenjtalk==0.1.0
+PySimpleGUIWeb==0.39.0
+remi==2020.3.10
+scipy==1.6.3
+simpleaudio==1.0.4
+six==1.16.0
